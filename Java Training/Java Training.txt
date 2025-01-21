@@ -1,0 +1,19 @@
+Java Training
+
+
+OOPS:
+
+1) Inheritance : When child class will have parental properties then it is known as Inheritance. 
+
+	Types of inheritance- 
+
+	-> Single 
+	-> Multilevel
+	-> Hybrid
+	-> Hierarchal
+
+Note- when 2 parents have similar types of properties the child doesn't know which parent property to be inherits hence there will be a     clash. This clash is known as Diamond problem.
+
+
+2) Polymorphism : 'Poly' means many and 'morphism' means forms. Two or more methods having the same name but differ in number of parameters, 	          types of parameters and sequence of parameters.
+
